@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WidgetsToggle</string>
+    <string name="toggle01_on">Toggle 01 On</string>
+    <string name="toggle01_off">Toggle 01 Off</string>
+    <string name="toggle02_on">Toggle 02 On</string>
+    <string name="toggle02_off">Toggle 02 Off</string>
+    <string name="toggle03_on">Toggle 03 On</string>
+    <string name="toggle03_off">Toggle 03 Off</string>
+</resources>
